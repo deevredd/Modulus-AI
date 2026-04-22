@@ -1,0 +1,30 @@
+[
+    {
+        "query": "Comparison of energy density metrics: Graphene-enhanced Li-ion vs. traditional Solid-State Electrolytes",
+        "expected_metrics": {
+            "graphene_density_min": 200,
+            "graphene_density_max": 350,
+            "solid_state_density_avg": 150,
+            "key_terms": ["Young's Modulus", "Coulombic efficiency", "Lattice constants"]
+        },
+        "critical_facts": "Graphene serves as a conductive additive in the anode; Solid-state electrolytes eliminate liquid flammability risks."
+    },
+    {
+        "query": "NIST Post-Quantum Cryptography Round 4 finalists and lattice-based security metrics",
+        "expected_metrics": {
+            "security_level": "128-bit quantum resistance",
+            "algorithms": ["CRYSTALS-Kyber", "NTRU", "FrodoKEM"],
+            "mathematical_basis": ["Lattice-based", "SVP", "LWE"]
+        },
+        "critical_facts": "Kyber was selected for primary standard; Round 4 focuses on key encapsulation mechanisms (KEMs)."
+    },
+    {
+        "query": "Structural evolution of carbon-fiber composite wings in commercial aviation (2010-2026)",
+        "expected_metrics": {
+            "weight_reduction": "20-25%",
+            "aircraft_models": ["Boeing 787 Dreamliner", "Airbus A350 XWB"],
+            "material_specs": ["Torayca T800", "Pultrusion process"]
+        },
+        "critical_facts": "Primary shift from aluminum to CFRP; 2026 focuses on thermoplastic recyclability and wing-tip folding mechanisms."
+    }
+]
