@@ -29,7 +29,7 @@ Most agents hallucinate technical values (like Young's Modulus). Modulus-AI uses
 ### 1. Installation
 Clone the repository and install the production dependencies:
 ```bash
-git clone [https://github.com/YOUR_USERNAME/Modulus-AI.git](https://github.com/YOUR_USERNAME/Modulus-AI.git)
+git clone [https://github.com/deevredd/Modulus-AI.git](https://github.com/deevredd/Modulus-AI.git)
 cd Modulus-AI
 pip install -r requirements.txt
 ```
